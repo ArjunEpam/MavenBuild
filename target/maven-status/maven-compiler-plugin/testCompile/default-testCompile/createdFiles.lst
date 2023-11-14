@@ -1,0 +1,6 @@
+org\example\ExcelReader.class
+org\example\DataProviders.class
+org\example\LoginPage.class
+org\example\RetryAnalyzerClass.class
+org\example\ListenersClass.class
+org\example\BaseTest.class
